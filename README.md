@@ -3,7 +3,7 @@
 
 ### Simple activator Windows 10
 
-#How to use?
-###Open activator.exe and choose your edition.
+# How to use?
+### Open activator.exe and choose your edition.
 
-##Its a simple code, sorry
+## Its a simple code, sorry
