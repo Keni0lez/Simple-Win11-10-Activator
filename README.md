@@ -7,3 +7,4 @@
 ### Open app.exe and choose your edition.
 
 ## Its a simple code, sorry
+### ps. tap to star pls <3
