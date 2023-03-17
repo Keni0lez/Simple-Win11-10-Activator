@@ -6,7 +6,7 @@
 # How to use?
 ### Open app.exe and choose your edition.
 
-#Support editions:
+# Support editions:
  ### Pro
  ### Home
  ### LTSC
