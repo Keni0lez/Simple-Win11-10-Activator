@@ -1,10 +1,15 @@
-# Simple-Win10-Activator
-
-
-### Simple activator Windows 10
+### Simple activator Windows 11/10 and older
 
 # How to use?
 ### Open app.exe and choose your edition.
+
+# Support Windows Versions:
+ ### Windows 11
+ ### Windows 10
+ ### Windows 8.1 (coming soon)
+ ### Windows 8 (coming soon)
+ ### Windows 7 (coming soon)
+
 
 # Support editions:
  ### Pro
