@@ -1,6 +1,7 @@
 ### Simple activator Windows 11/10 and older
 
 # How to use?
+### Disable Windows Defender
 ### Open app.exe and choose your edition.
 
 # Support Windows Versions:
